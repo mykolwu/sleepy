@@ -1,0 +1,39 @@
+body {
+  background-color: white;
+}
+
+.frame {
+  width: 960px;
+  height: 540px;
+  background: black;
+}
+
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.back_button {
+  cursor: pointer;
+}
+
+.video_button {
+  text-align: center;
+  cursor: pointer;
+}
+
+.slide_button {
+  text-align: center;
+  cursor: pointer;
+}
+
+.next_button {
+  cursor: pointer;
+}
